@@ -1,6 +1,11 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "Free fire 3d baru",
+  "packageName": "com.web2apk.freefire3dbarulc2n",
+  "orientation": "landscape",
+  "permissions": [
+    "notification",
+    "location",
+    "file_manager",
+    "wifi_state"
+  ]
 }

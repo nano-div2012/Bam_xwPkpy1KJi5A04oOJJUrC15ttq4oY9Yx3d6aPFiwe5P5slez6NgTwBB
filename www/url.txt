@@ -1,1 +1,1 @@
-https://example.com/
+https://seboso-server-preview.ilha-final-preview.workers.dev/
